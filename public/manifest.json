@@ -1,0 +1,17 @@
+{
+  "name": "Vibefy — Free Music for Everyone",
+  "short_name": "Vibefy",
+  "description": "Stream music with every premium feature free: no ads, unlimited skips, offline downloads.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
